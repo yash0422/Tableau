@@ -1,2 +1,18 @@
 Files on Data Connection, which can be done in Tableau Prep or Desktop.
 It had .twbx file as well Business Problem, Dataset and Solution.
+
+Problem Statement:
+
+Coffee Chain Sales and Marketing analysis
+
+You are a Data Analyst working for Starbucks.
+The company is trying to assess marketing strategy effectiveness and sales distribution across various products they sell.
+You have been supplied with three data sets one for location, products and sales details in different format,
+and management has asked to show the following:
+
+1. Sales trend across two product categories, tea and coffee.
+
+2. Using Pie chart, show total sales distribution across product categories.
+
+3. Is there any correlation between Sales and Marketing Expenses? Any changes within the years? Build a scatterplot.
+Refer to the following datasets: ▪ Sales.xls ▪ Products.csv ▪ Location.csv
