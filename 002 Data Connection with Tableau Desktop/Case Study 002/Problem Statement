@@ -1,0 +1,22 @@
+Problem Statement
+
+Case Study: Educational Institute
+
+You have been hired by an educational institute in India as a Tableau Developer.
+
+Your task is to deliver a visualization which has the details of the actual sales and the target sales of department.
+Using data blending, create a visualization which will show the above requirements.
+
+Also, create a view in the same visualization which will help business to understand the difference between the actual sales
+and the target sales.
+
+In the data set, there is no target for some of the regions and to get more understanding about the data blending try to
+create the same visualizations with two scenarios
+
+1) Make Actual Sales sheet as primary source and create the above visualizations.
+
+2) Make Target Sales sheet as primary source and create the above visualizations.
+
+3) Visualize and explain the difference.
+
+Refer to the dataset: Education.xls
