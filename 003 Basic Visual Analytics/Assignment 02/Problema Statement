@@ -1,0 +1,23 @@
+Problem Statement:
+
+You have been hired as a BI Analyst by El Horno’s Pizza.
+The company is trying to assess marketing strategy effectiveness and sales distribution across different products.
+The Director of the company has asked you to show the following:
+
+1. Sales trend across 2 product categories, Pizza and Burger. Build an Area Chart.
+
+2. A Pie Chart and display Total Sales Distribution across product categories.
+
+3. Sales distribution across product categories.
+   Show a Chart by States which indicates the percentage of Pizza category sales across total sales.
+
+4. Sales distribution across product categories.
+   Show a Chart by states which indicates the percentage of Burger category sales across total sales.
+
+5. Identify the States, wherein the marketing campaigns are most effective and which of the marketing teams need
+   to revise their tools? Show this on Vertical bar chart.
+
+6. A Scatter Plot and identify for correlation between Sales and Marketing Expenses, if any.
+   Through Highlighting feature, identify for any changes within the years.
+
+Refer to the dataset : M3-CASE STUDY 2.csv
