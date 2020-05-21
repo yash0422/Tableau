@@ -1,0 +1,19 @@
+Module 4: Calculations In Tableau
+
+Case Study II- Problem Statement
+
+Problem Statement:
+
+You have been hired by a Retail Store Startup to assess which of their Retail Stores requires stock updation in the upcoming days.
+
+These stores run round the clock for 365 days. Identify when these stores require stock updation.
+
+Currently, the Retail Store Company follows the following criteria: The Store requires stock updation when, within the previous day, there was at least one, 8-hour period when the average Idle Capacity was over 10%.
+
+Idle capacity is a utilization metric which, for the purpose of this project, is defined as
+
+Idle capacity = (Actual Sales - Nominal Sales) / Nominal Sales
+
+Find out which of the stores have exceeded this level and create a report for the executive with your recommendations.
+
+Refer to the dataset from the file: Retail Store EP.xlsx
