@@ -1,0 +1,24 @@
+Module 4: Calculations In Tableau
+
+Case Study I- Problem Statement
+
+Problem Statement
+
+You have been promoted to a Sr. Tableau Developer in your organization. The management has asked you to analyze their sales data.
+Create attractive and informative visualizations. Using Table calculations, create the following charts: -
+
+1. Create a chart to visualize the Running Total of Sales over a period of time.
+   Create an Area chart and compare the Running Total Sales with the Actual Sales.
+
+2. Create a Text table to show the percentage difference in Profit of each month in comparison with the previous year’s month.
+
+3. Create a Text Table to show the Running Sum of Profit for every year individually.
+
+4. Using features like Rank, Last and Index create a chart to highlight the Top 5 and Bottom 5 sub-categories based on the sales.
+
+5. Create a chart to display the moving average of sales of 6 months prior and 6 months after.
+   Using this information, the management will have an idea about the one-year average of sales over a period of time.
+
+Note: Use “Order Date” in your visualizations.
+
+Refer to the dataset from the file: Adventure Works.csv
