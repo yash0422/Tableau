@@ -1,0 +1,26 @@
+Module 5: Advanced Visual Analytics
+
+In-class Project 1
+
+Project Statement
+
+Domain: Entertainment Industry
+
+You have been approached as an analytics consultant by a movie reviews company.
+
+They are writing up an article analysing movie ratings by critics and audience as well as movie budgets for the years 2007 till 2011.
+You have been asked to perform the tasks:
+
+Refer the dataset: Movie-Ratings.csv
+
+Task 1: Create a chart displaying Budget of Movies across different Genres over a period of time
+
+Task 2: Create a chart showing the correlation between audience and critic ratings
+
+Task 3: Create a chart displaying the number of movies released under every Genre over a period of time.
+
+Task 4: Create a chart to visualize the comparison between the Ratings over a period of time.
+
+Task 5: Create a chart that will display the Budget of Top 3 Movies by both Audience and Critics rating. Also segregate the chart by Genre.
+
+Task 6: Create a Dashboard, using the above charts.
