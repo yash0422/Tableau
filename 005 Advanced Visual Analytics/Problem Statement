@@ -1,0 +1,33 @@
+Module 5: Advanced Visual Analytics
+
+Case Study I – Problem Statement
+
+Problem Statement:
+
+You have been hired by Adventure Capitals, a Company that conducts surveys across the Globe. The Company collects Business,
+Development and Health Data, and has asked you to create a report on the following:
+
+(Refer to World Indicators Data.csv dataset)
+
+1. With the help of forecasting tool, forecast the Business Tax Rate for next 3 years with 90% accuracy and without
+   ignoring any last value for each Region and the Company would like to see the Sum of Lending Interest for each year without
+   changing the style of the report. Use the Line Chart.
+
+2. The Company wants you to display the correlation between Internet Usage and Mobile Phone Usage based on Countries.
+   Also, the company wants to section out the data into three different Clusters and save them.
+
+3. Create a Scatter Plot with Health Exp/Capita, Health Exp % GDP and Country also add reference line displaying the
+   Average value for each corresponding Axis. To further impress the company with your skills, add a Logarithmic Trend Line.
+
+4. With the help of Parameters, create a chart where the user can either select one of the following Dimensions: -
+   
+   • Country
+   • Region
+
+   And either one of the following Measures: -
+
+   • Days to Start Business
+   • Internet Usage
+   • Infant Mortality Rate
+
+The chart should also change depending upon the value.
