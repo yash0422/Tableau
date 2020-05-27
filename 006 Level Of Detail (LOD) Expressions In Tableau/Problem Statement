@@ -1,0 +1,26 @@
+Module 6: Level Of Detail (LOD) Expressions Tableau
+
+Case Study I – Problem Statement
+
+Problem Statement:
+
+You have been hired by the Analytix a Global Research firm as a Tableau Developer and your task is to visualize
+the following queries given by the Management.
+
+The data provided contains details about the Sales made by each Representative ranging from year 2011 to 2014,
+use the Level of Detail (LOD) feature to accomplish your task:
+
+Refer the dataset: Sales by Rep.csv
+
+1. Identify the Largest deal that each representative has closed.
+
+2. Using the Top deals by sales representative, identify its average by country.
+   Create a dashboard that will help management to get a drill down analysis from Country to Sales representative also
+   Color the chart in a way that the countries with high level of average top deals by Sales representative are Green
+   colored and countries with lower level of average top deals by Sales representative are red in color.
+
+3. Identify the Largest Deal that each representative has closed based on profit.
+
+4. Using Top deals by profit, identify its average by country.
+   Create a dashboard which will help the management to get a deeper analysis from country to Profit by representative. Moreover,
+   color the chart where Blue color represents higher level of average top deals by Profit by representatives and Red for the lower level.
