@@ -1,0 +1,23 @@
+Module 6: Level Of Detail (LOD) Expressions Tableau
+
+Case Study II – Problem Statement
+
+Problem Statement:
+You’ve been hired by the Shire Oakmont a Stock Trading Company.
+You’ve been appointed as their Sr. BI Analyst and your task is to visualize the Percentage of difference
+from average value across a range of values.
+
+The company wants you to compare their daily close value of a stock against the average daily close value and
+show their difference in percent. To make things a little complicated the company has asked you to compare the results
+across a selected time range.
+
+The data has been provided to you and contains the following:
+• Company Name
+• Date
+• Ticker
+• Adj Close
+
+Hint: In order to create this visualization you’ll need help of the following feature:
+• Level Of Detail
+• Calculated Field
+• Parameters
