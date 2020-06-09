@@ -1,0 +1,27 @@
+Module 8: Advanced Charts In Tableau
+
+Case Study II- Problem Statement
+
+Problem Statement:
+
+You are a BI Analyst in Green Eco Corp. The management has asked to analyze their data and create some attractive
+yet informative visualizations.
+
+Refer the dataset: Adventure Works.csv
+
+Q1: Create a Bar in Bar chart on Sales and Profit by Country to compare these Measure against one another.
+
+Q2: Create a Gantt chart that displays difference in Order quantity of each Category at Country Level.
+    The duration of the chart should be on Week Continuous level.
+
+Q3: Create a Step and Jump line chart, displaying Cumulative Sum of Sales at Continuous Quarter level.
+
+Q4: Create a Funnel chart by Profit and Region and find the trend.
+
+Q5: Create an Area Funnel chart by Order Quantity at Discrete Quarter level also reverse the chart in order to
+    give it a proper funnel shape.
+
+Q6: Create two Word Clouds in two separate sheets. The first chart should be on Sub-category where the Size and Color represent
+    Profit and the second chart should be on Country where Size represents the Sales and Color represents the Country.
+
+Note: Use the “Order Date” in your visualizations.
