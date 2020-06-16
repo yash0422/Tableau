@@ -1,1 +1,41 @@
-jjjk
+Module 9: Dashboards And Stories
+
+Case Study II- Problem Statement
+
+Problem Statement:
+
+The Management at Adventure Capitals has assigned you a task to create few Charts and a Dashboard.
+Create a presentation as well using the Story Points feature.
+
+Following are the tasks you need to perform:
+
+1. Using the Population data set, create a Symbol Map at Country level where the size of the circle displays
+the population and the color represents the classification of Birth Rate. Since no field is available for classification,
+you will need to create a Calculated Field to classify the birth rate based on the following criteria:
+Birth Rate below 1.5% is termed as “Below”
+Birth Rate between 1.5%-3% is termed as “Moderate”
+Birth Rate above 3% is termed as “Above”
+
+2. Using the Health Data, create two Horizontal Bar charts in the same view where the first bar chart is for
+Average Health Exp % GDP at Country Level and the other one is for the Average Health Exp/Capita at Country Level.
+Also, create a Parameter for Health Exp % GDP ranging from 1-15%. Use this for bifurcating the charts.
+
+3. Using the Development data, create a dual-axis chart comparing Mobile phone usage against Internet usage at Year level.
+
+4. Using the Development data, create two timelines, one for Average GDP and the other one for Average GDP
+divided by Average Population. The visualization should be bifurcated based on Country.
+
+5. Create a Dashboard using Travel Data. The Dashboard should include the following visualizations:
+   • Create a Stacked Bar chart using Region, Tourism Inbound and Year.
+   • Create a Tree-Map using Tourism Outbound, Region and Country. Add Tourism Inbound as well without altering the visualization.
+   • Create a Dashboard and turn on the Action Filter for both the charts.
+
+6. Using the Business data, create a Dashboard consisting of the following charts:
+   • Display correlation between Ease of Business and GDP per Capita at Country level. Add a Logarithmic Trend Line as well.
+   • Create a chart using Average Days to Start Business, Average Hours to do Tax and Average Tax Rate at the Country level.
+   • Create a Text table using Country, Business Tax Rate, Days to start Business, Ease of Business and Hours to do Tax.
+   • Finally create a Dashboard and turn on the Action Filter for all the charts
+
+7. Create a Story using all the visualizations and dashboards.
+   
+   (Refer to the dataset from the file: World Indicators.csv)
