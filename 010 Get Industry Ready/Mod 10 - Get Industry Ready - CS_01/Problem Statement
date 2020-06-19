@@ -1,0 +1,22 @@
+Module 10: Get Industry Ready
+
+Case Study I- Problem Statement
+
+Problem Statement:
+
+The Management at Green Eco has asked you to create the following dashboards which will assist them in expanding their business.
+
+Refer the datasets: Adventure Works.csv, Location.csv, Product.csv and Sales.xls
+
+Q1: Create a Switch between fields in Bar Chart, where user can select Dimensions and Measures dynamically and the whole sheet should also change accordingly.
+    Use the following fields: -
+      ➢ Dimensions: Country, Category Name and Subcategory Name.
+      ➢ Measures: Sales and Profit.
+
+Q2: Create a Dashboard where the user has an option to select one chart and the other should disappear.
+    For this create two separate line charts one with Date and Sales and another with Date and Profit.
+
+Q3: Create a Dashboard where the user can dynamically change the charts using an option button.
+    Create one Pie chart showing the Total Percent of Sales by each Country and another should be a crosstab of Pie chart.
+
+Q4: Create a Bar Graph which shows only top 5 relevant sub-categories by Sales, once the category selected.
