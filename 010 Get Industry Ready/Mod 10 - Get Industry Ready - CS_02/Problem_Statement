@@ -1,0 +1,20 @@
+Mod 10 - Get Industry Ready - CS_02
+
+Case Study II- Problem Statement
+
+Problem Statement:
+
+You are a Tableau developer in at local sports shop. The management of the store has assigned you a few tasks related to Tableau Tips and Tricks.
+
+Refer the dataset: Calendar data set.xslx and Local Store.csv
+
+Q1. Using the calendar data set, create a Calendar where the user has the option to select the month.
+
+Q2. Create 2 animated map charts at the Country level. The first chart is for Sales and the second chart is for Profit.
+    The Granularity of the sheets should be set a Month (Continuous) and Quarter (Continuous).
+
+Q3. Create a no axis bar chart showing sales of different Products.
+
+Q4. Create two pills coloured Tree Map, displaying Profit of various Subcategories. First color based on Category and then on Subcategory.
+
+Q5. Create a Dashed line blended axis Line chart for Sales and Profit. Set the granularity of the chart as Month Continuous.
