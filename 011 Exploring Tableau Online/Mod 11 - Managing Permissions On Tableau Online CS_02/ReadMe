@@ -1,0 +1,15 @@
+Mod 11 - Managing Permissions On Tableau Online CS_02
+
+Case Study II- Problem Statement
+
+Problem Statement:
+
+Company wants you to publish a report on Tableau Online and create users with explorer and viewer accounts.
+
+Refer the dataset: Sample Superstore.xslx
+
+Q1: Create an user account with the email id edureka2020@gmail.com and edureka2021@gmail.com and give user 1 as explorer access and user 2 as viewer access.
+
+Q2: User 1 is a manager of Central region, he should only get access to Central region’s data.
+
+Q3: User 2 is a higher management and he should have access to all the locations.
