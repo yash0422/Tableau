@@ -1,0 +1,19 @@
+Mod 11 - Managing Permissions On Tableau Online CS_01
+
+Case Study I- Problem Statement
+
+Problem Statement:
+
+Business wants to publish the report in Tableau Online and need to create users who can explore and view account.
+Create the accounts using the email ids and help users to get the desired accesses.
+
+Q1: Create an user account with the email id temp2020@gmail.com and Temp2021@gmail.com and give user 1 as explorer access and user 2 as viewer access
+
+Q2: Try to publish the reports using both the users and see the difference
+
+Q3: Create a group called Edureka and add these users to the group. Give the custom access to the group and see what happens to the user access level
+once they are added to the group.
+
+Q4: With the Admin access, try to explore the Ask Data option in the Tableau Online.
+
+Refer Sample Superstore Dataset for Q4.
